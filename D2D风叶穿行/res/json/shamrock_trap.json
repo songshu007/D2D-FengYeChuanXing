@@ -1,0 +1,182 @@
+{ "frames": [
+   {
+    "filename": "shamrock_trap #idle 0.aseprite",
+    "frame": { "x": 170, "y": 277, "w": 46, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 76, "w": 46, "h": 58 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #idle 1.aseprite",
+    "frame": { "x": 301, "y": 152, "w": 48, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 75, "w": 48, "h": 60 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #idle 2.aseprite",
+    "frame": { "x": 301, "y": 275, "w": 45, "h": 62 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 78, "y": 75, "w": 45, "h": 62 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #idle 3.aseprite",
+    "frame": { "x": 301, "y": 214, "w": 48, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 76, "w": 48, "h": 59 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #idle 4.aseprite",
+    "frame": { "x": 170, "y": 277, "w": 46, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 76, "w": 46, "h": 58 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #idle 5.aseprite",
+    "frame": { "x": 218, "y": 277, "w": 43, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 79, "y": 77, "w": 43, "h": 55 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 0.aseprite",
+    "frame": { "x": 478, "y": 275, "w": 47, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 76, "w": 47, "h": 58 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 1.aseprite",
+    "frame": { "x": 478, "y": 213, "w": 50, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 75, "w": 50, "h": 60 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 2.aseprite",
+    "frame": { "x": 478, "y": 146, "w": 55, "h": 65 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 74, "y": 72, "w": 55, "h": 65 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 3.aseprite",
+    "frame": { "x": 0, "y": 264, "w": 72, "h": 69 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 64, "y": 71, "w": 72, "h": 69 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 4.aseprite",
+    "frame": { "x": 94, "y": 251, "w": 74, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 63, "y": 68, "w": 74, "h": 80 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 5.aseprite",
+    "frame": { "x": 94, "y": 156, "w": 81, "h": 93 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 60, "y": 68, "w": 81, "h": 93 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 6.aseprite",
+    "frame": { "x": 0, "y": 156, "w": 92, "h": 106 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 53, "y": 60, "w": 92, "h": 106 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 7.aseprite",
+    "frame": { "x": 181, "y": 152, "w": 118, "h": 123 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 37, "y": 53, "w": 118, "h": 123 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 8.aseprite",
+    "frame": { "x": 349, "y": 146, "w": 127, "h": 135 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 38, "y": 46, "w": 127, "h": 135 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 9.aseprite",
+    "frame": { "x": 349, "y": 0, "w": 151, "h": 144 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 43, "w": 151, "h": 144 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 10.aseprite",
+    "frame": { "x": 181, "y": 0, "w": 166, "h": 150 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 40, "w": 166, "h": 150 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_trap #vanish 11.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 179, "h": 154 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 38, "w": 179, "h": 154 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "shamrock_trap.png",
+  "format": "RGBA8888",
+  "size": { "w": 533, "h": 337 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 5, "direction": "forward" },
+   { "name": "vanish", "from": 6, "to": 17, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Flattened", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

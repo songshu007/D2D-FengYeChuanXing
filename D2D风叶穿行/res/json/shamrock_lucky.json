@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "shamrock_lucky #idle 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 47, "h": 69 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 47, "h": 69 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_lucky #idle 1.aseprite",
+    "frame": { "x": 0, "y": 140, "w": 46, "h": 65 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 46, "h": 65 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_lucky #idle 2.aseprite",
+    "frame": { "x": 49, "y": 71, "w": 45, "h": 69 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 45, "h": 69 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_lucky #idle 3.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 46, "h": 69 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 46, "h": 69 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_lucky #idle 4.aseprite",
+    "frame": { "x": 0, "y": 71, "w": 47, "h": 67 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 47, "h": 67 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock_lucky #idle 5.aseprite",
+    "frame": { "x": 96, "y": 71, "w": 45, "h": 65 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 3, "w": 45, "h": 65 },
+    "sourceSize": { "w": 54, "h": 80 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "shamrock_lucky.png",
+  "format": "RGBA8888",
+  "size": { "w": 141, "h": 205 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Flattened", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

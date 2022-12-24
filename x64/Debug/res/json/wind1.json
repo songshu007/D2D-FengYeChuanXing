@@ -1,0 +1,100 @@
+{ "frames": [
+   {
+    "filename": "wind1 0.aseprite",
+    "frame": { "x": 618, "y": 8, "w": 15, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 815, "y": 119, "w": 15, "h": 4 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 1.aseprite",
+    "frame": { "x": 618, "y": 0, "w": 42, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 777, "y": 114, "w": 42, "h": 6 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 2.aseprite",
+    "frame": { "x": 97, "y": 44, "w": 77, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 714, "y": 115, "w": 77, "h": 14 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 3.aseprite",
+    "frame": { "x": 544, "y": 31, "w": 112, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 639, "y": 119, "w": 112, "h": 29 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 4.aseprite",
+    "frame": { "x": 404, "y": 0, "w": 212, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 521, "y": 127, "w": 212, "h": 29 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 5.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 220, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 484, "y": 123, "w": 220, "h": 42 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 6.aseprite",
+    "frame": { "x": 222, "y": 0, "w": 180, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 478, "y": 123, "w": 180, "h": 46 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 7.aseprite",
+    "frame": { "x": 404, "y": 31, "w": 138, "h": 44 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 463, "y": 121, "w": 138, "h": 44 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "wind1 8.aseprite",
+    "frame": { "x": 0, "y": 44, "w": 95, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 452, "y": 121, "w": 95, "h": 32 },
+    "sourceSize": { "w": 960, "h": 180 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "wind1.png",
+  "format": "RGBA8888",
+  "size": { "w": 660, "h": 76 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 8, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "wind 01", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\GameEngine">
+      <UniqueIdentifier>{8c6fe936-3599-441a-a810-bc19b8382edd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\GameEngine">
+      <UniqueIdentifier>{1c956c5a-bc66-457f-a195-0bcad052edc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\GameSrc">
+      <UniqueIdentifier>{1bad4667-52ab-4122-a9e5-c8a8f205b984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\GameSrc">
+      <UniqueIdentifier>{cfbe3a2e-6ffe-4b6f-b6e5-0dd6636477d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameEngine\GameEngine.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine\Clock.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine\InputKey.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine\LogSys.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine\Render.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\AnimationComponent.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\AnimationManage.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Entity.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\HitboxComponent.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Player.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine\Resource.cpp">
+      <Filter>源文件\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock_lucky.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\EmptyEntity.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock_trap.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock1.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\GameData.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\BackGround.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock2.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock3.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Shamrock4.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Particle.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Wind.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSrc\Swallow.cpp">
+      <Filter>源文件\GameSrc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameEngine\GameEngine.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\Clock.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\LogSys.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\InputKey.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\Render.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\Vec.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\AnimationComponent.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\AnimationManage.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Entity.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\HitboxComponent.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Player.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine\Resource.h">
+      <Filter>头文件\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock_lucky.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\EmptyEntity.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock_trap.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock1.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\GameData.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\BackGround.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock2.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock3.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Shamrock4.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Particle.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Wind.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSrc\Swallow.h">
+      <Filter>头文件\GameSrc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

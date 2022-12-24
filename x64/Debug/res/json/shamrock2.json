@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "shamrock2 #idle 0.aseprite",
+    "frame": { "x": 54, "y": 0, "w": 53, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 53, "h": 59 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock2 #idle 1.aseprite",
+    "frame": { "x": 54, "y": 61, "w": 51, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 51, "h": 60 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock2 #idle 2.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 52, "h": 61 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 3, "w": 52, "h": 61 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock2 #idle 3.aseprite",
+    "frame": { "x": 107, "y": 61, "w": 51, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 3, "w": 51, "h": 60 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock2 #idle 4.aseprite",
+    "frame": { "x": 54, "y": 0, "w": 53, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 53, "h": 59 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "shamrock2 #idle 5.aseprite",
+    "frame": { "x": 0, "y": 63, "w": 52, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 52, "h": 57 },
+    "sourceSize": { "w": 54, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "shamrock2.png",
+  "format": "RGBA8888",
+  "size": { "w": 158, "h": 121 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Flattened", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
