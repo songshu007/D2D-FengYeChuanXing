@@ -14,6 +14,6 @@ D2D风叶穿行/main.cpp 是程序入口点
 
 风叶穿行的json和图片资源都在 D2D风叶穿行/res 文件夹下
 
-编译好的exe文件在Debug目录下
+编译好的exe文件在x64/Debug目录下
 
 ![](Screenshot.png)
